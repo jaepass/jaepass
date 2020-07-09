@@ -1,4 +1,4 @@
-### Hi there 👋
+## Ciao Ciao 👋
 
 <!--
 **jaepass/jaepass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a **Frontend Developer & Designer** currently developing 💻 and designing 🖌️ product *(you get the gist)* at [Chec/Commerce.js](https://commercejs.com/). Coming from a diverse career journey, I've never felt more at home in tech, especially in my current kickass startup company. I spend most of my days implementing UI features, building integrations with our tool and writing documentations and tutorials on them, and creating icons and illustrations. Away from pushing pixels at work, I love engaging with the developer community 💬, biking 🚴‍, bookmarking articles I'll never read 🔖, swimming in lakes 🏊🏻‍, traveling 🗺️, and slinging back espresso shots ☕. I also speak three languages 🇨🇦🇸🇬🇮🇹, well more or less, I prefer to call myself try-lingual.
