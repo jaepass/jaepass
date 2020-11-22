@@ -19,7 +19,7 @@ I'm a **Frontend Developer & Designer** currently building 💻 and designing �
 
 I am also a Canada Chapter Leader at [Frontend Foxes](https://www.frontendfoxes.org/) 🦊, which is a non-profit international organization aiming to provide diversity in developer communities. As part of the initiative, we run worldwide events, meetups, and workshops for women and people who identify as women to learn frontend technologies.
 
-Away from pushing pixels at work, I try to keep myself busy and spend most of my time with my 👦🏻. I also love biking 🚴‍, adventuring/hiking, engaging with the developer community 💬, swimming in seas/lakes 🏊🏻‍, traveling 🗺️ (pre-covid), and currently learning the violin. I speak three languages 🇨🇦🇸🇬🇮🇹 or more or less, I prefer to call myself try-lingual.
+Away from pushing pixels at work, I try to keep myself busy and spend most of my time with my 👦🏻. I also love biking 🚴‍, adventuring/hiking, engaging with the developer community 💬, swimming in seas/lakes 🏊🏻‍, traveling 🗺️ (pre-covid), and currently learning the violin, my dream instrument. I speak three languages 🇨🇦🇸🇬🇮🇹 or more or less, I prefer to call myself try-lingual.
 
 ### 📝 Latest articles
 
