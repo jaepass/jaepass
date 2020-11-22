@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **Frontend Developer & Designer** currently building 💻 and designing 🖌️ product at [Chec/Commerce.js](https://commercejs.com/). Coming from a diverse career journey, I've never felt more at home in tech, especially in my current kickass startup company. I spend most of my days implementing UI features, building integrations with our tool and writing documentations and tutorials on them, and creating icons and illustrations. I am also a newly joined Canadian Chapter Leader at [Frontend Foxes](https://www.frontendfoxes.org/) 🦊. We run worldwide events, meetups, and workshops for women and people who identify as women to learn frontend technologies.
+I'm a **Frontend Developer & Designer** currently building 💻 and designing 🖌️ product at [Chec/Commerce.js](https://commercejs.com/) powered by at least 4 espresso shots a day ☕. Coming from a diverse career journey, I've never felt more at home in tech, especially in my current kickass startup company. I spend most of my days implementing UI features, building integrations with our tool, writing documentations and tutorials, and creating graphics icons and illustrations.
 
-Away from pushing pixels at work, I love engaging with the developer community 💬, biking 🚴‍, bookmarking articles I'll never read 🔖, swimming in lakes 🏊🏻‍, traveling 🗺️, and slinging back espresso shots ☕. I also speak three languages 🇨🇦🇸🇬🇮🇹, well more or less, I prefer to call myself try-lingual.
+I am also a Canada Chapter Leader at [Frontend Foxes](https://www.frontendfoxes.org/) 🦊, which is a non-profit international organization aiming to provide diversity in developer communities. As part of the initiative, we run worldwide events, meetups, and workshops for women and people who identify as women to learn frontend technologies.
+
+Away from pushing pixels at work, I try to keep myself busy and spend most of my time with my 👦🏻. I also love biking 🚴‍, adventuring/hiking, engaging with the developer community 💬, swimming in seas/lakes 🏊🏻‍, traveling 🗺️ (pre-covid), and currently learning the violin. I speak three languages 🇨🇦🇸🇬🇮🇹 or more or less, I prefer to call myself try-lingual.
 
 ### 📝 Latest articles
 
