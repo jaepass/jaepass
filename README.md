@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **Frontend Developer & Designer** currently building 💻 and designing 🖌️ product at [Chec/Commerce.js](https://commercejs.com/) powered by at least 4 espresso shots a day ☕. Coming from a diverse career journey, I've never felt more at home in tech, especially in my current kickass startup company. I spend most of my days implementing UI features, building integrations with our tool, writing documentations and tutorials, and creating graphics icons and illustrations.
+I'm a **Front-end Engineer & Designer** currently building 💻 and designing 🖌️ product at [Chec/Commerce.js](https://commercejs.com/) powered by at least 4 espresso shots a day ☕. Coming from a diverse career journey, I've never felt more at home in tech, especially in my current kickass startup company. I spend most of my days developing UI features, design systems, integrations; writing documentations and tutorials; and creating graphics icons and illustrations.
 
-I am also a Canada Chapter Leader at [Frontend Foxes](https://www.frontendfoxes.org/) 🦊, which is a non-profit international organization aiming to provide diversity in developer communities. As part of the initiative, we run worldwide events, meetups, and workshops for women and people who identify as women to learn frontend technologies.
+I am also a Community Leader and Curriculum Contributor at [Frontend Foxes](https://www.frontendfoxes.org/) 🦊 It is a non-profit international organization started  aiming to provide diversity in developer communities. As part of the initiative, we run worldwide events, meetups, and workshops for women and people who identify as women to learn front-end technologies.
 
-Away from pushing pixels at work, I try to keep myself busy and spend most of my time with my 👦🏻. I also love biking 🚴‍, adventuring/hiking, engaging with the developer community 💬, swimming in seas/lakes 🏊🏻‍, traveling 🗺️ (pre-covid), and currently learning the violin, my dream instrument. I speak three languages 🇨🇦🇸🇬🇮🇹 or more or less, I prefer to call myself try-lingual.
+Away from pushing pixels at work, I love spending outdoors with friends and family. I also love biking 🚴‍, adventuring/hiking, engaging with the developer community 💬, swimming in seas/lakes 🏊🏻‍, traveling 🗺️ (pre-covid), and currently learning the violin, my dream instrument. I speak three languages 🇨🇦🇸🇬🇮🇹 or more or less, I prefer to call myself try-lingual.
 
 ### 📝 Latest articles
 
