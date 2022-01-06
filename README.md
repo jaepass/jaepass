@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👯 I am currently looking for my next opportunity to contribute to your front-facing products, design systems, and developer resources. Would love to chat! Please get in touch at [jaeriah.com](https://jaeriah.com/)
+👯 I am currently looking for my next opportunity to contribute to your front-facing products, design systems, and developer resources. Would love to chat! Please get in touch at [jaeriah.com](https://jaeriah.com/).
 
 I'm a **Front-end Engineer & UI Designer** who spent the last couple of years 🖌️ designing and 💻 building developer tooling, user-facing UI, marketing sites, documentation and custom demo integrations at a commerce infrastructure startup. I consider myself a creative developer who has experience developing accessible, high-fidelity and responsive experiences using modern and best-of-breed front-end technologies.
 
