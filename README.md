@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **Front-end Engineer & Designer** currently building 💻 and designing 🖌️ product at [Chec/Commerce.js](https://commercejs.com/) powered by at least 4 espresso shots a day ☕. Coming from a diverse career journey, I've never felt more at home in tech, especially in my current kickass startup company. I spend most of my days developing UI features, design systems, integrations; writing documentations and tutorials; and creating graphics icons and illustrations.
+👯 I am currently looking for my next opportunity to contribute to your front-facing products, design systems, and developer resources. Would love to chat! Please get in touch at [jaeriah.com](https://jaeriah.com/)
 
-I am also a Community Leader and Curriculum Contributor at [Frontend Foxes](https://www.frontendfoxes.org/) 🦊 It is a non-profit international organization started  aiming to provide diversity in developer communities. As part of the initiative, we run worldwide events, meetups, and workshops for women and people who identify as women to learn front-end technologies.
+I'm a **Front-end Engineer & UI Designer** who spent the last couple of years 🖌️ designing and 💻 building developer tooling, user-facing UI, marketing sites, documentation and custom demo integrations at a commerce infrastructure startup. I consider myself a creative developer who has experience developing accessible, high-fidelity and responsive experiences using modern and best-of-breed front-end technologies.
 
-Away from pushing pixels at work, I love spending outdoors with friends and family. I also love biking 🚴‍, adventuring/hiking, engaging with the developer community 💬, swimming in seas/lakes 🏊🏻‍, traveling 🗺️ (pre-covid), and currently learning the violin, my dream instrument. I speak three languages 🇨🇦🇸🇬🇮🇹 or more or less, I prefer to call myself try-lingual.
+I am also a Community Leader and Curriculum Contributor at [Frontend Foxes](https://www.frontendfoxes.org/) 🦊 It is a non-profit international organization that  aims to provide diversity in developer communities. As part of the initiative, we run worldwide events, meetups, and workshops for women and people who identify as women to learn front-end technologies.
+
+Away from pushing pixels at work, I love spending outdoors with friends and family. I also love biking 🚴‍, adventuring/hiking, engaging with the developer community 💬, swimming in seas/lakes 🏊🏻‍, traveling 🗺️ (pre-covid), and currently learning the violin. I speak three languages 🇨🇦🇸🇬🇮🇹 or more or less, I prefer to call myself try-lingual.
 
 ### 📝 Latest articles
 
