@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a **Software Engineer & UI Designer** building products to help accelerate revenue for software companies in cloud marketplaces. Prior to my current gig, I spent the last couple of years 🖌️ designing and 💻 building developer tooling, user-facing UI, marketing sites, documentation and custom demo integrations at a commerce infrastructure startup. I consider myself a creative developer who has experience developing accessible, high-fidelity and responsive experiences using modern and best-of-breed front-end technologies.
+Ciao, I'm Jaeriah, a Software Engineer currently working at cloud marketplace platform organization. Coming from a diverse and non-traditional career path, I've never felt more at home in tech. The very idea that I get to brew up ideas, design the product, and build it all from scratch, had me thinking this is the kind of super power I need!
 
-I am also a Community Leader and Curriculum Contributor at [Frontend Foxes](https://www.frontendfoxes.org/) 🦊 It is a non-profit international organization that  aims to provide diversity in developer communities. As part of the initiative, we run worldwide events, meetups, and workshops for women and people who identify as women to learn front-end technologies.
+In my day to day, I spend it mostly doing full-stack software implementation and learning to build backend services. Previous to my current role, I was a Front-end Developer & UI Designer where I contributed to the core product and design system using Vue.js, built integrations using React and Next.js, and designed the UI, graphics and icons. My tech and design stack includes JavaScript, React, Python, AWS, and Figma. Check out some of my projects on my GitHub.
 
-Away from pushing pixels at work, I love spending outdoors with family and friends. I also love biking 🚴‍, adventuring/hiking, engaging with the developer community 💬, swimming in seas/lakes 🏊🏻‍, traveling 🗺️, and currently learning the violin. I speak three languages 🇨🇦🇸🇬🇮🇹 or more or less, I prefer to call myself try-lingual.
+Away from pushing pixels at work, I enjoy spending time outdoors with family, doing Muay Thai 🥊, 🚴 biking‍, 💬 engaging with the developer community, 🗺️ traveling to feed my soul, brewing up product ideas and getting lost behind pages on psychology, philosophy, social science and science fiction 📚. I speak three languages 🇨🇦🇸🇬🇮🇹 but realistically, I call myself a try-lingual. I am a huge advocate for climate awareness, women/girls in tech, and racial injustice.
 
-### 📝 Latest articles
+### 📝 Highlights
 
-* April 1 2021 [Create React app with Tailwind](https://jaeriah.com/blog/cra-tailwind)
-* November 30 2020 [Next.js Commerce.js Static Site Generation](https://jaeriah.com/blog/nextjs-commercejs-static-site-generation)
-* July 8 2020 [Create a Fully Fledged Jamstack Commerce Store with Commerce.js and Netlify](https://jaeriah.com/blog/jamstack-commerce-store-commercejs-netlify)
-* May 27 2020 [Note-to-self as a Junior Developer](https://jaeriah.com/blog/note-to-self-as-an-early-career) 
+* March 8 2023 [Is move fast, break things still the mantra in tech companies?](https://jaeriah.com/blog/move-fast-break-things)
+* March 6 2023 [What to think about API design?](https://jaeriah.com/blog/api-design)
+* November 2 2022 [Attending the Web Summit in Lisbon, Portugal](https://jaeriah.com/blog/attending-web-summit)
+* September 13 2022 [Harnessing the Power of GraphQL talk](https://cfe.dev/sessions/fefd2022-power-of-graphql/) 
 
 Let's [get in touch](https://twitter.com/jaeriahtay), would love to know what interesting things you all are building out there! 
